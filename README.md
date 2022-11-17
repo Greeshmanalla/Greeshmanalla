@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Greeshmanalla
+- 👋 Hi, I’m Greeshma Nalla
 - 👀 I’m interested in python, Cloud computing
 - 🌱 I’m currently learning Cloud
 - 💞️ I’m looking to collaborate on
