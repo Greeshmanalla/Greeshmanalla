@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, Cloud computing
 - 🌱 I’m currently learning Cloud
 - 💞️ I’m looking to collaborate on
-- 📫 You can reach me on LinkedIn https://www.linkedin.com/in/greeshma-nalla/
+- 📫 You can reach me at nallagreeshma123@gmail.com
 
 <!---
 Greeshmanalla/Greeshmanalla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
