@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Greeshma Nalla
 - 👀 I’m interested in python, Cloud computing
 - 🌱 I’m currently learning Cloud
-- 💞️ I’m looking to collaborate on
 - 📫 You can reach me at nallagreeshma123@gmail.com
 
 <!---
