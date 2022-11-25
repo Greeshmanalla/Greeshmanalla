@@ -16,10 +16,11 @@
 <br>
 <h1 align="center">
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
+  I am Greeshma Nalla 👩🏻‍💻 💻
 </h1>
 
-- 👋 Hi, I’m Greeshma Nalla
+- 👋 Hi.........
 - 👀 I’m interested in python, Cloud computing
 - 🌱 I’m currently learning Cloud
 - 📫 You can reach me at nallagreeshma123@gmail.com
