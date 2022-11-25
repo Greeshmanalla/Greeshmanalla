@@ -5,10 +5,19 @@
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/greeshma-nalla/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-</a>
+    </a>
+    <a href="mailto:minjikim.cs@gmail.com">
+    <img src=https://img.shields.io/badge/Gmail-nallagreeshma123%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white />
+  </a>
+  
 </div>
 
 
+<br>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 - 👋 Hi, I’m Greeshma Nalla
 - 👀 I’m interested in python, Cloud computing
