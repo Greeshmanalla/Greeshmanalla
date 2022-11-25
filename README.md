@@ -8,8 +8,7 @@
     </a>
     <a href="mailto:nallagreeshma123@gmail.com">
     <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
-  </a>
-  
+  </a>  
 </div>
 
 
@@ -23,7 +22,9 @@
 - 👋 Hi.........
 - 👀 I’m interested in python, Cloud computing
 - 🌱 I’m currently learning Cloud
-- 📫 You can reach me at nallagreeshma123@gmail.com
+- 📫 You can reach me at:  <a href="https://www.linkedin.com/in/greeshma-nalla/">
+    <img src="https://img.shields.io/badge/-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
 <br>
 <b><h2>🛠️Skills</h2></b>
 <div>
