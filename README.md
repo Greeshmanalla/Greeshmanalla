@@ -19,8 +19,8 @@
   I am Greeshma Nalla 👩🏻‍💻 💻
 </h1>
 
-- 👋 Hi.........
-- 👀 I’m interested in python, Cloud computing
+- 👋 Hi, I am a Computer Science Student
+- 👀 I’m interested in Python and Cloud computing
 - 🌱 I’m currently learning Cloud
 - 📫 You can reach me at:  <a href="https://www.linkedin.com/in/greeshma-nalla/">
     <img src="https://img.shields.io/badge/-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
