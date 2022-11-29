@@ -42,8 +42,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="60" height="60"/>&nbsp;
 </div>
 
-<b><h2>🛠️Competitive Programming</h2></b>
-
+<b><h2>👩‍💻Competitive Programming Profile</h2></b>
 <a href="https://www.hackerrank.com/greeshmanalla">
     <img src="https://camo.githubusercontent.com/e4ce38f060a7c4a81306e9db3e07a89c092217a9f04a6ca4c5f7e247a4368283/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6861636b657272616e6b2d3763666330303f7374796c653d666c6174266c6162656c436f6c6f723d376366633030266c6f676f3d6861636b657272616e6b266c6f676f436f6c6f723d7768697465" alt="HackerRank" data-canonical-src="https://img.shields.io/badge/-HackerRank-7cfc00?style=flat&amp;labelColor=7cfc00&amp;logo=HackerRank&amp;logoColor=white" style="max-width: 100%;">
 </a>
