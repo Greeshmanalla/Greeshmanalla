@@ -55,4 +55,9 @@
 <a href="https://www.codechef.com/users/greeshma_n" rel="nofollow" target="_blank">
 <img src="https://camo.githubusercontent.com/8d888e9ff67a613c4cd9883e185d8f128aebde330b10e3040afc99ad0f4ed67a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436f6465636865662d3930393039303f7374796c653d666c6174266c6162656c436f6c6f723d393039303930266c6f676f3d436f646563686566266c6f676f436f6c6f723d7768697465" alt="CodeChef" data-canonical-src="https://img.shields.io/badge/-Codechef-654321?style=flat&amp;labelColor=654321&amp;logo=CodeChef&amp;logoColor=white" style="max-width: 100%;">
 </a>
+<br>
+</a>
+<div id="badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=Greeshmanalla&style=flat-square&color=blue" alt=""/>
+</div>
 
