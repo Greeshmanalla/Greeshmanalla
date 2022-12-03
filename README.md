@@ -57,7 +57,7 @@
 </a>
 <br>
 </a>
-<div id="badges" align="center">
+<div id="badges">
 <img src="https://komarev.com/ghpvc/?username=Greeshmanalla&style=flat-square&color=blue" alt=""/>
 </div>
 
